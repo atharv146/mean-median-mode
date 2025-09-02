@@ -1,2 +1,3 @@
 # mean-median-mode
-short program calculating mean-median-mode of anything
+1. basic python
+2. short program calculating mean-median-mode of anything
